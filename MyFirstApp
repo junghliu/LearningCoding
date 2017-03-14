@@ -1,0 +1,11 @@
+package tw.junghliu.myproject.common
+
+Public Class TestPrimitiveType
+{
+	Public static void main String[]args
+	{	
+		int num1;
+		num1=6;
+		System.out.println("num="+6)
+	}
+}
